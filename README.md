@@ -1,3 +1,3 @@
 # slide-js
-projeto funcionando, ainda faltam alguns ajustes esteticos, mas a lógica está toda feita.
+projeto de um Slide simples(mas que deu muito trabalho) com JavaScript puro :)
 https://luantavaresc.github.io/slide-js/
